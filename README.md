@@ -1,2 +1,5 @@
 # java_tutoring_remote
-자바 튜터링
+
+```
+2022 겨울학기 BUG 튜터링
+```
